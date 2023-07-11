@@ -1,9 +1,6 @@
-Olá, seja bem vindx!
+# Giliard Godoi
 
-Meu nome é Giliard. 
-
-Estou há um bom tempo tentando uma carreira como programador. Porém, atualmente trabalho como assistente legislativo na Câmara de Vereadores de Santo Antônio da Platina.
-
-Você pode conhecer um pouco mais sobre mim nesse [post aqui](http://giliardgodoi.github.io/pages/sobre/) ou nas minhas [redes sociais](http://giliardgodoi.github.io/pages/contato/).
-
-Atualmente meus interesses são aprendizado de máquina e processamento de linguagem natural.
+- Assistente Legislativo na [Câmara Municipal de Santo Antônio da Platina\PR](https://www.santoantoniodaplatina.pr.leg.br)
+- Licenciado em Matemática pela Universidade Estadual do Norte do Paraná (UENP) *Campus* de Jacarezinho\PR
+- Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná (UTFPR)
+- Mestre em Informática - Inteligência Computacional pela Universidade Tecnológica Federal do Paraná (UTFPR)
