@@ -34,7 +34,7 @@ projetos.add("🔹 Fine_tuning_Modelos_Linguagem.txt")
 projetos.add("🔹 Sumarizacao_Textos_Longos.txt")
 
 repos = tree.add("📂 Repositórios_Destaque/")
-repos.add("🔗 [link='https://github.com/GiliardGodoi/tj-datasets']tjdatasets/[/link]")
+repos.add("🔗 [link=https://github.com/GiliardGodoi/tj-datasets]tjdatasets/[/link]")
 repos.add("🔗 [link=https://github.com/GiliardGodoi/xsteiner]xsteiner/[/link]")
 
 contato = tree.add("📂 Contato")
