@@ -9,11 +9,11 @@ from rich.markdown import Markdown
 console = Console(record=True, width=100)
 
 # Estrutura de diretórios formatada com Rich
-tree = Tree("[bold blue]# Giliard_Godoi[/bold blue]")
+tree = Tree("[bold blue]Giliard_Godoi[/bold blue]")
 
 formacao = tree.add("[bold]📂 Formação_Acadêmica/[/bold]")
 formacao.add("🎓 [bold]Doutorado_ICMC_USP.txt[/bold]")
-formacao.add("🎓 [bold]Mestrado__UTFPR.txt[/bold]")
+formacao.add("🎓 [bold]Mestrado_Informatica_UTFPR.txt[/bold]")
 formacao.add("🎓 [bold]Tecnólogo_ADS_UTFPR.txt[/bold]")
 formacao.add("🎓 [bold]Licenciatura_Matemática_UENP.txt[/bold]")
 

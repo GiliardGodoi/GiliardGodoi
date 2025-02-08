@@ -1,7 +1,7 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080; font-weight: bold"># Giliard_Godoi</span>
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Giliard_Godoi</span>
 ├── <span style="font-weight: bold">📂 Formação_Acadêmica/</span>
 │   ├── 🎓 <span style="font-weight: bold">Doutorado_ICMC_USP.txt</span>
-│   ├── 🎓 <span style="font-weight: bold">Mestrado__UTFPR.txt</span>
+│   ├── 🎓 <span style="font-weight: bold">Mestrado_Informatica_UTFPR.txt</span>
 │   ├── 🎓 <span style="font-weight: bold">Tecnólogo_ADS_UTFPR.txt</span>
 │   └── 🎓 <span style="font-weight: bold">Licenciatura_Matemática_UENP.txt</span>
 ├── <span style="font-weight: bold">📂 Áreas_de_Interesse/</span>
