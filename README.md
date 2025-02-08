@@ -1,8 +1,31 @@
-# Giliard Godoi
-
-- 🎓 Doutorando no Instituto de Ciência da Computação e Matemática Computaciona (ICMC) da USP de São Carlos (SP)
-- 🎓 Mestre em Informática - Inteligência Computacional pela Universidade Tecnológica Federal do Paraná (UTFPR)
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná (UTFPR)
-- 🎓 Licenciado em Matemática pela Universidade Estadual do Norte do Paraná (UENP)
-
-- 📜 Assistente Legislativo na Câmara Municipal de Santo Antônio da Platina - PR
+```bash
+📂 Giliard_Godoi/
+├── 📄 README.md
+├── 📂 Formacao_Academica/
+│   ├── 🎓 Doutorado_ICMC_USP.txt
+│   ├── 🎓 Mestrado_UTFPR.txt
+│   ├── 🎓 Licenciatura_Matematica_UENP.txt
+│   ├── 🎓 Tecnologo_ADS_UTFPR.txt
+│
+├── 📂 Areas_de_Interesse/
+│   ├── 🧠 Aprendizado_de_Maquina.txt
+│   ├── 🔠 Processamento_de_Linguagem_Natural.txt
+│   ├── 📜 Sumarizacao_Automatica.txt
+│   ├── 🔍 Contrastive_Learning.txt
+│   ├── 🏆 Algoritmos_Evolutivos.txt
+│
+├── 📂 Projetos_e_Pesquisas/
+│   ├── 🔹 Fine_tuning_Modelos_Linguagem.txt
+│   ├── 🔹 Sumarizacao_Textos_Longos.txt
+│   ├── 🔹 Otimizacao_Algoritmos_Evolutivos.txt
+│   ├── 🔹 Redes_Neurais_Contrastivas.txt
+│
+├── 📂 Repositorios_Destaque/
+│   ├── 🔗 Bert_PLN.txt
+│   ├── 🔗 Sumarizacao_Textos.txt
+│   ├── 🔗 Algoritmos_Evolutivos_Arvore_Steiner.txt
+│
+├── 📂 Contato/
+│   ├── 🔗 LinkedIn.txt
+│   ├── ✉️ Email.txt
+```
