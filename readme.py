@@ -13,7 +13,7 @@ console = Console(record=True, width=100)
 tree = Tree("[link=https://giliardgodoi.github.io/]Giliard_Godoi[/link]", style='bold', guide_style='bright_black')
 
 formacao = tree.add("📂 Formação_Acadêmica/")
-formacao.add("🎓 Doutorado_ICMC_USP.txt")
+formacao.add("🎓 Estudante_Doutorado_ICMC_USP.txt")
 formacao.add("🎓 Mestrado_Informatica_UTFPR.txt")
 formacao.add("🎓 Tecnólogo_ADS_UTFPR.txt")
 formacao.add("🎓 Licenciatura_Matemática_UENP.txt")
