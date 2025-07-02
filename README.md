@@ -8,9 +8,6 @@
 <span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">🧠 Aprendizado_de_Maquina.ipynb</span>
 <span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">🤖 Redes_Neurais.ipynb</span>
 <span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">🔠 Processamento_de_Linguagem_Natural.ipynb</span>
-<span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">📜 Sumarização_Automática.ipynb</span>
-<span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">🔍 Constrastive_Learning.ipynb</span>
-<span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">🔄 Alinhamento_Modelos_Linguagem.ipynb</span>
 <span style="color: #808080; text-decoration-color: #808080">│   ├── </span><span style="font-weight: bold">📊 Análise_Visualização_Dados.ipynb</span>
 <span style="color: #808080; text-decoration-color: #808080">│   └── </span><span style="font-weight: bold">🏆 Algoritmos_Evolutivos.py</span>
 <span style="color: #808080; text-decoration-color: #808080">├── </span><span style="font-weight: bold">📂 Projetos_e_Pesquisas/</span>
